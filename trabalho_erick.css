@@ -1,0 +1,21 @@
+html{
+    background-color: lightblue;
+}
+.laranja{
+    color:orangered
+}
+h1{
+    text-align: center;
+}
+.colunas{
+    display: flex;
+    gap: 20px;
+}
+.coluna{
+    flex: 1;
+    padding: 60px;
+    background: lightcyan
+}
+.rodape{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+html{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+.laranja{
+    color: orangered;
+}
+.textos{
+    display: flex;
+    gap: 5px;
+}
+.texto{
+    flex: 1;
+    padding: 25px;
+    background-color: lightcyan;
+}
+.imagens{
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start ;
+    align-items: flex-end;
+}
+.imagem img{
+    max-height: 400px;
+    max-width: 400px;
+    width: auto;
+    height: auto;
+}
